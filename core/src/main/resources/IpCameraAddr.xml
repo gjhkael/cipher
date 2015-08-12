@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<catalog>
+    <IpcameraAddr>
+	<IpAddr>192.168.1.211</IpAddr>
+	<RtspAddr>rtsp://admin:admin@192.168.1.96:554/1-1</RtspAddr>
+    </IpcameraAddr>
+    <IpcameraAddr>
+	<IpAddr>192.168.1.211</IpAddr>
+	<RtspAddr>rtsp://admin:admin@192.168.1.96:554/1-1</RtspAddr>
+    </IpcameraAddr>
+</catalog>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco.javacpp-presets:flandmark:1.07-0.10">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-0.10/flandmark-1.07-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-0.10/flandmark-1.07-0.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-0.10/flandmark-1.07-0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

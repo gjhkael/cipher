@@ -1,0 +1,1 @@
+g++ -shared -fPIC -I /usr/lib/jvm/jdk1.7.0_60/include -I /usr/lib/jvm/jdk1.7.0_60/include/linux/ -I /usr/include/ -I /usr/local/include/opencv featuretracker.cpp frameprocessor.cpp myframeprocessor.cpp videoprocessor.cpp  -o libspass.so -lopencv_core -lopencv_highgui -lopencv_contrib -lopencv_objdetect -lopencv_imgproc 

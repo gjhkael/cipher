@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xuggle-utils-1.22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/core/lib/xuggle-utils-1.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
